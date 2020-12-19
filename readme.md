@@ -1,3 +1,3 @@
 # Webpack шаблон
 
-Webpack шаблон с настройками webpack.config.js 
+Webpack шаблон с поддержкой Babel, React, Sass
